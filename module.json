@@ -1,0 +1,7 @@
+{
+    "author": "Nylu",
+    "description": "allows changing max camera distance",
+    "disableAutoUpdate": false,
+    "name": "Camera",
+    "servers": ["https://raw.githubusercontent.com/NyluNyan/Camera/master/"]
+}
