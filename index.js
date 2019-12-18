@@ -1,8 +1,9 @@
 const fs = require('fs'),
 path = require('path');
-let config = require('./config.json');
 
 module.exports = function AutoCamera(mod) {
+	
+	let config = require('./config.json');
 	
 	mod.command.add('cam', cmd =>
 	{
